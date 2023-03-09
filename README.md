@@ -34,7 +34,7 @@
 ##
 
 <div align="center">
-    <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a display="block" margin-top="100px"> 
+    <a href="https://discord.gg/N8byDfzYqt" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a display="block" margin-top="100px"> 
     <a href = "mailto:beatrizcazatti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="www.linkedin.com/in/beatriz-cazatti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a margin="0 10px> 
    
