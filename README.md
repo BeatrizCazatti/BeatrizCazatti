@@ -1,4 +1,4 @@
-## Olá, eu sou Beatriz!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
+## Hello, I'm Beatriz!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" height="30px"></h2>
  <div align="center">
    <a href="https://github.com/beatrizcazatti">
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=beatrizcazatti&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
